@@ -2,6 +2,8 @@
 
 Fundamentals of the CSS. Repository with examples and basic exercises of selectors, properties, flex box and others. This repository is part of a self-taught supplemental course to help students develop skills.
 
+- flexbox froggy: https://flexboxfroggy.com/
+
 ## Resources Spanish
 
 - [Fundamentos de CSS](https://medium.com/@diego.coder/introducci%C3%B3n-a-css-7988e694cde9)
