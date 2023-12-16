@@ -3,10 +3,12 @@
 Fundamentals of the CSS. Repository with examples and basic exercises of selectors, properties, flex box and others. This repository is part of a self-taught supplemental course to help students develop skills.
 
 ## Resources
+
 - CSS standard: https://www.w3.org/Style/CSS
 - Developer Mozilla CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
 - Stackoverflow CSS questions: https://stackoverflow.com/questions/tagged/css
 - Practice flexbox with froggy: https://flexboxfroggy.com
+- Practice Magic CSS: https://adamschwartz.co/magic-of-css/
 
 ## Personal blog about CSS
 
